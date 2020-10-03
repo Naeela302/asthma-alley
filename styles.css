@@ -25,9 +25,7 @@ html {
 }
 
 /* responsive images */
-img {
-    width: 100%;
-}
+img { width: 100%;}
 
 h1 {
     font-size: 3em;
@@ -127,6 +125,6 @@ hr {
     /* Any adjustments for desktop and larger go here.
     Note these styles will be applied to anything 729px or larger -- so desktop */
     .container {
-        max-width: 600px;
-    }
+        max-width: 600px;  }
+      footer{color: gray;margin: inherit;}
 }
